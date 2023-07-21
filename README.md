@@ -58,3 +58,7 @@
 **[Dark Matter: Der Zeitenläufer](https://buchbaum.de/book/43ba9fdf-aff5-4a48-b610-029693987726/dark-matter-der-zeitenlaufer-by-blake-crouch) (2016) von Blake Crouch** - Ein Wissenschaftler entdeckt eine Möglichkeit, Erinnerungen zu manipulieren, was zu einer Welt führt, in der Realität und Vergangenheit aufeinandertreffen.
 
 **[Die Zeitfalte](https://buchbaum.de/book/aae3ed95-0494-4857-969a-8775559be419/die-zeitfalte-by-madeleine-lengle) (1962) von Madeleine L'Engle** - Die Geschichte dreht sich um die Abenteuer von Meg und Charles Wallace, die mithilfe von Quantenphysik und einem mysteriösen Wesen ihren Vater retten wollen.
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
