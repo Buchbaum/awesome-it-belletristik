@@ -1,5 +1,5 @@
 # Awesome IT Belletristik 
-> Die Belletristik behandelt verschiedene IT-Themen, von Cybersicherheit und Hacking bis hin zu künstlicher Intelligenz, virtueller Realität, Big Data, digitaler Kultur, Codierung und spekulativer Zukunftstechnologie. Die Leser können diese fesselnden Geschichten erkunden und dabei Einblicke in die Chancen und Herausforderungen der sich schnell entwickelnden Welt der Informationstechnologie gewinnen. Diese und ähnliche Bücher können auf der neuen Büchertauschplattform [Buchbaum](https://buchbaum.de) getauscht werden.
+> Die Belletristik behandelt verschiedene IT-Themen, von Cybersicherheit und Hacking bis hin zu künstlicher Intelligenz, virtueller Realität, Big Data, digitaler Kultur, Codierung und spekulativer Zukunftstechnologie. Nutzen Sie die Büchertauschplattform [Buchbaum](https://buchbaum.de), um Geld zu sparen und die Umwelt zu schonen.
 
 ## Inhalt
 
